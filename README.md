@@ -13,6 +13,7 @@ echo 'solutions = [
     "url": "https://github.com/chromium/chromium.git",
     "managed": False,
     "name": "src",
+    "deps_file": "DEPS",
     "custom_deps": {},
     "custom_vars": {},
   },
